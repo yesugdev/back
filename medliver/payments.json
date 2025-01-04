@@ -1,0 +1,2 @@
+{"_id":{"$oid":"675d4c0df4dec4fdb979a1be"},"patientId":{"$oid":"675d4c0df4dec4fdb979a1bc"},"amount":45000,"service":"Үзлэг","date":{"$date":"2024-12-14T09:12:45.457Z"},"status":"Төлөгдсөн"}
+{"_id":{"$oid":"675d4c0df4dec4fdb979a1bf"},"patientId":{"$oid":"675d4c0df4dec4fdb979a1bd"},"amount":120000,"service":"Шинжилгээ","date":{"$date":"2024-12-14T09:12:45.457Z"},"status":"Төлөгдөөгүй"}

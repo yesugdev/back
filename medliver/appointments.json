@@ -1,0 +1,2 @@
+{"_id":{"$oid":"675d4c0df4dec4fdb979a1ba"},"patientId":{"$oid":"675d4c0df4dec4fdb979a1b8"},"doctorName":"Д.Батаа","date":{"$date":"2024-12-14T09:12:45.344Z"},"time":"09:00","type":"Үзлэг","status":"Хүлээгдэж буй"}
+{"_id":{"$oid":"675d4c0df4dec4fdb979a1bb"},"patientId":{"$oid":"675d4c0df4dec4fdb979a1b9"},"doctorName":"С.Нараа","date":{"$date":"2024-12-14T09:12:45.344Z"},"time":"10:30","type":"Дахин үзлэг","status":"Батлагдсан"}

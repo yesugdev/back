@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6778be9d4fd343d78435273a"},"registerNumber":"RN123456","lastName":"Болд","firstName":"Бат","age":45,"gender":"Male","status":"Admitted","appointmentTime":"2024-12-16T14:30:00+00:00","phone":"99119911","address":"Ulaanbaatar, Mongolia"}
+{"_id":{"$oid":"6778beae4fd343d78435273b"},"registerNumber":"RN123456","lastName":"Болд","firstName":"Бат","age":45,"gender":"Male","status":"Admitted","appointmentTime":"2024-12-16T14:30:00+00:00","phone":"99119911","address":"Ulaanbaatar, Mongolia","email":"bat.bold@example.mn"}
